@@ -1,1 +1,1 @@
-git study project 2019
+git study project 2019 Copyright
