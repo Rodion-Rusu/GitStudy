@@ -1,1 +1,1 @@
-Git study Project - Copyright 2019
+Git study Project by Rodion Rusu - Copyright 2019 
